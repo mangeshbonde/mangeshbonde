@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=200&section=header&text=Mangesh%20Bonde&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
 <!-- Dynamic Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=Building+Scalable+Cloud+Infrastructure+on+AWS;Automating+Everything+with+CI%2FCD+%26+IaC;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+Terraform" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Mangesh+Bonde;Cloud+%26+DevOps+Engineer+%7C+AWS+Enthusiast" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -12,7 +9,6 @@
 
 <br/><br/>
 
-<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mangesh-bonde-26ba59232)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.mangeshbonde@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mangeshbonde)
@@ -28,13 +24,11 @@ name: Mangesh Bonde
 located_in: Pune, Maharashtra, India
 role: Cloud & DevOps Engineer
 education: BE in Electronics & Telecommunication Engineering (CGPA: 8.79)
-experience: Trainee Cloud Engineer @ Cravita Technologies
 certification: Master in Cloud Architecture [AWS + DevOps]
-currently_learning: [ "Kubernetes Advanced", "Terraform Modules", "Monitoring with Prometheus & Grafana" ]
+currently_learning: [ "Kubernetes Advanced", "Terraform Modules", "Prometheus & Grafana" ]
 motto: "If I do it twice, I script it. If I script it, I pipeline it."
 ```
 
-- 🔭 Recently completed internship at **Cravita Technologies** — building CI/CD pipelines, managing Kubernetes clusters, and deploying on AWS
 - ☁️ Hands-on experience with **15+ AWS services** including EC2, S3, VPC, IAM, Lambda, CloudFront, Route 53, and Amplify
 - 🐳 Passionate about **containerization** (Docker) and **orchestration** (Kubernetes)
 - 🔄 Built end-to-end **CI/CD pipelines** with Jenkins, Git, and Kubernetes
@@ -52,18 +46,18 @@ motto: "If I do it twice, I script it. If I script it, I pipeline it."
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonroute53&logoColor=white)
 ![VPC](https://img.shields.io/badge/VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 ![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white)
-![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EventBridge](https://img.shields.io/badge/EventBridge-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EBS](https://img.shields.io/badge/EBS-569A31?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![ACM](https://img.shields.io/badge/ACM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### 🔧 DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -76,11 +70,10 @@ motto: "If I do it twice, I script it. If I script it, I pipeline it."
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### 🐧 Operating Systems & Networking
+### 🐧 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
-![Amazon Linux](https://img.shields.io/badge/Amazon_Linux-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### 💻 Languages & Frontend
@@ -93,44 +86,7 @@ motto: "If I do it twice, I script it. If I script it, I pipeline it."
 
 ---
 
-## 💼 Experience
-
-> ### Trainee Cloud Engineer — Cravita Technologies India Pvt. Ltd., Pune
-> **Aug 2025 – Mar 2026**
-> 
-> ☁️ Worked on cloud infrastructure using AWS (EC2, S3, VPC, IAM, CloudFront)
-> 
-> 🔄 Designed & implemented CI/CD pipelines with Jenkins + Git for automated deployments
-> 
-> 🐳 Deployed & managed containerized apps with Docker & Kubernetes on AWS EC2
-> 
-> ⚙️ Configured K8s clusters with namespace isolation, deployments, services & ingress controllers
-
----
-
 ## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/mangeshbonde/StaticSite-CI-CD-Pipeline">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mangeshbonde&repo=StaticSite-CI-CD-Pipeline&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/mangeshbonde/to-do-app-cloud-native-with-aws-amplify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mangeshbonde&repo=to-do-app-cloud-native-with-aws-amplify&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/mangeshbonde/Multi-Account-Disaster-Recovery-using-S3-Cross-Region-Replication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mangeshbonde&repo=Multi-Account-Disaster-Recovery-using-S3-Cross-Region-Replication&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-<a href="https://github.com/mangeshbonde/Automating-EC2-Start-Stop-Using-AWS-Lambda-Amazon-EventBridge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mangeshbonde&repo=Automating-EC2-Start-Stop-Using-AWS-Lambda-Amazon-EventBridge&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-</div>
-
-<br/>
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
@@ -180,14 +136,28 @@ Fortune Cloud Technologies
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mangeshbonde&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mangeshbonde&theme=tokyonight&hide_border=true&border_radius=12" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mangeshbonde&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mangeshbonde&show_icons=true&theme=default&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mangeshbonde&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=mangeshbonde&theme=tokyonight&hide_border=true&border_radius=12" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=mangeshbonde&theme=default&hide_border=true&border_radius=12" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=mangeshbonde&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub Streak" />
+</picture>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshbonde&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshbonde&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshbonde&layout=compact&theme=default&hide_border=true&border_radius=12&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangeshbonde&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" alt="Top Languages" />
+</picture>
 
 </div>
+
+> **Note:** If the stats cards above appear blank, they may be temporarily rate-limited. They will reload automatically after some time.
 
 ---
 
@@ -195,7 +165,7 @@ Fortune Cloud Technologies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mangeshbonde&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=mangeshbonde&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -205,21 +175,7 @@ Fortune Cloud Technologies
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mangeshbonde&theme=tokyo-night&hide_border=true&radius=12&area=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mangeshbonde/mangeshbonde/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mangeshbonde/mangeshbonde/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mangeshbonde/mangeshbonde/output/github-snake.svg" />
-</picture>
+[![Mangesh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mangeshbonde&theme=tokyo-night&hide_border=true&radius=12&area=true)](https://github.com/mangeshbonde)
 
 </div>
 
@@ -232,9 +188,5 @@ Fortune Cloud Technologies
 <br/>
 
 **⭐ If you find my projects useful, consider giving them a star!**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24&height=100&section=footer" width="100%"/>
 
 </div>
